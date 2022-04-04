@@ -9,3 +9,4 @@ a script that writes into the file ls_cwd_content the result of the command ls -
 a script that duplicates the last line of the file iacta
 a script that displays the 10 newest files in the current directory.
 a script that takes a list of words as input and prints only words that appear exactly once.
+Display lines containing the pattern “root” from the file /etc/passwd
