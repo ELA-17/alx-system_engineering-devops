@@ -19,3 +19,4 @@ a script that deletes all the regular files (not the directories) with a .js ext
 Write a script that counts the number of directories and sub-directories in the current directory.
 The current and parent directories should not be taken into account
 Hidden directories should be counted
+Replace all characters A and c from input to Z and e respectively.
