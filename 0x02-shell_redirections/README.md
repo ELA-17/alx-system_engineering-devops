@@ -20,3 +20,4 @@ Write a script that counts the number of directories and sub-directories in the 
 The current and parent directories should not be taken into account
 Hidden directories should be counted
 Replace all characters A and c from input to Z and e respectively.
+Create a script that removes all letters c and C from input.
